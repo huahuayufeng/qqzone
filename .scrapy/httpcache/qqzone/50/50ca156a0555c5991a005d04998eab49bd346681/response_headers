@@ -1,0 +1,21 @@
+Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' 'self' jsbridge: http://*.gtimg.cn https://*.gtimg.cn http://*.qq.com https://*.qq.com http://*.idqqimg.com https://*.idqqimg.com;child-src 'self' jsbridge: musicqzone: mqzonev2: mqzonev3: mqzone: mqqzone: mqqapi: nextradio: mvshow: weixin: mqq: blob: jserror: http://*.qq.com https://*.qq.com http://*.qzone.com https://*.qzone.com;frame-src 'self' jsbridge: musicqzone: mqzonev2: mqzonev3: mqzone: mqqzone: mqqapi: nextradio: mvshow: weixin: mqq: blob: jserror: http://*.qq.com https://*.qq.com http://*.qzone.com https://*.qzone.com http://*.gtimg.cn https://*.gtimg.cn https://www.darryring.com https://*.res.meizu.com;report-uri https://h5.qzone.qq.com/csp/report?type=header&enable=1
+Content-Encoding: gzip
+Set-Cookie: uin=; PATH=/; DOMAIN=qq.com
+Set-Cookie: skey=; PATH=/; DOMAIN=qq.com
+Set-Cookie: zzpaneluin=; PATH=/; DOMAIN=qzone.qq.com
+Set-Cookie: zzpanelkey=; PATH=/; DOMAIN=qzone.qq.com
+Set-Cookie: p_skey=; PATH=/; DOMAIN=qzone.qq.com; Secure
+Set-Cookie: pt4_token=; PATH=/; DOMAIN=qzone.qq.com
+Set-Cookie: p_uin=; PATH=/; DOMAIN=qzone.qq.com
+Set-Cookie: qzone_check=; EXPIRES=Fri, 02-Jan-1970 00:00:00 GMT; PATH=/; DOMAIN=qq.com
+Set-Cookie: _qz_referrer=; expires=Mon, 26 Jul 1997 05:00:00 GMT; PATH=/; DOMAIN=qq.com
+Strict-Transport-Security: max-age=2592000
+Server: QZHTTP-2.38.18
+Content-Security-Policy-Report-Only: img-src 'self' about: data: blob: jsbridge: http://*.gtimg.cn https://*.gtimg.cn http://*.qpic.cn https://*.qpic.cn http://*.qlogo.cn https://*.qlogo.cn http://*.myqcloud.com https://*.myqcloud.com http://*.tenpay.com https://*.tenpay.com http://*.soso.com https://*.soso.com http://*.weiyun.com https://*.weiyun.com http://*.qzone.com https://*.qzone.com http://*.qq.com https://*.qq.com;default-src 'self' about: 'unsafe-inline' 'unsafe-eval' data: blob: http://*.qpic.cn https://*.qpic.cn http://*.gtimg.cn https://*.gtimg.cn http://*.gtimg.com https://*.gtimg.com http://*.qq.com https://*.qq.com http://*.qq.com:8080 https://*.qq.com:8080 http://*.myqcloud.com https://*.myqcloud.com http://*.weiyun.com https://*.weiyun.com https://www.darryring.com https://*.res.meizu.com;report-uri https://h5.qzone.qq.com/csp/report?type=header&enable=1
+Last-Modified: Wed, 27 Jun 2018 06:43:15 GMT
+X-Ua-Compatible: IE=Edge
+Cache-Control: max-age=0, no-transform, proxy-revalidate
+Date: Wed, 27 Jun 2018 06:43:15 GMT
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+Content-Type: text/html; charset=utf-8

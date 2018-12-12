@@ -1,0 +1,10 @@
+X-Powered-By: TSW/Node.js
+Set-Cookie: rv2=800AF32C39A891C70783206CC985F5238457F80B14597D6664; PATH=/; DOMAIN=qq.com;
+Set-Cookie: property20=1BB260CDCBDF9A902EF9A3A924085D97403741EFEC8B6C3BB02990A802974B2F085F19376F8AEF02; PATH=/; DOMAIN=qq.com;
+Content-Encoding: gzip
+Vary: Origin, Accept
+Mod-Map: proxy_domain:photo.v7/module/proxy/sync.js
+Server: QZHTTP-2.37.1
+Cache-Control: no-cache
+Date: Mon, 02 Jul 2018 08:01:53 GMT
+Content-Type: text/plain; charset=UTF-8
