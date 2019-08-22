@@ -9,8 +9,8 @@ from ..items import PicItem
 class QqzoneSpider(scrapy.Spider):
     name = 'qqzone'
     allowed_domains = ['user.qzone.qq.com']
-    qq_id=1033780738
-    friendqq_id=243250607
+    qq_id=xxxxxxxxx
+    friendqq_id=xxxxxxxxx
     gtk=0
     pos=-20
     g_qzonetoken = ''
@@ -89,10 +89,10 @@ class QqzoneSpider(scrapy.Spider):
         button.click()
         account = browser.find_element_by_css_selector("#u")
         account.clear()
-        account.send_keys("1033780738")  # 此处写账号
+        account.send_keys("xxxxxxxx")  # 此处写账号
         password = browser.find_element_by_css_selector("#p")
         password.clear()
-        password.send_keys("hmw20081401031jm")  # 此处写密码
+        password.send_keys("xxxxxxxx")  # 此处写密码
 
         login_button = browser.find_element_by_css_selector("#login_button")
         login_button.click()
@@ -118,4 +118,4 @@ class QqzoneSpider(scrapy.Spider):
             hashes += (hashes << 5) + ord(letter)
         return hashes & 0x7fffffff
 
-    #https://user.qzone.qq.com/proxy/domain/r.qzone.qq.com/cgi-bin/tfriend/friend_hat_get.cgi?hat_seed=1&uin=1033780738&fupdate=1&g_tk=55216229&qzonetoken=5ad989d1c2a0980e18ff0ebb3884d89b2fc581577dc0904d4a1fd86e99ababa1c7cb298d3043bd003117cf&g_tk=55216229
+   
